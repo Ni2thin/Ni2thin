@@ -10,14 +10,7 @@
 
 <div align="center">
 
- 🌱 Currently focusing on learning OpenCV, YOLOv8, and Qiskit. Always on the lookout for mentorship to accelerate my learning curve.
-
- 💬 Let’s geek out over Python, Machine Learning, Quantum Computing, or anything else that bridges tech and innovation! You can ask questions or share ideas 
-      [here](https://github.com/Ni2thin/Ni2thin/issues). 
-
-⚡ Fun fact: Google’s Willow Quantum, with 72 qubits and 1,000x the speed of classical supercomputers, can solve complex quantum problems in seconds. Meanwhile, Windows Explorer still takes 3 seconds to open a folder!
-
-
+ Engineering pixels, decoding qubits, and reducing loss—in models and in life.
 
  </div>
  
