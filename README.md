@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=35&pause=1000&color=27AE60&center=true&vCenter=true&width=700&height=100&lines=Konnichiwa;Watashi+wa+Nitthin+desu!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=35&pause=100&color=27AE60&center=true&vCenter=true&width=700&height=100&lines=Konnichiwa;Watashi+wa+Nitthin+desu!" 
     alt="Typing SVG" 
   />
 </h1>
